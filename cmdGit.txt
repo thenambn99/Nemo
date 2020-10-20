@@ -1,0 +1,4 @@
+git clone ...
+git add (ten file)
+git commit -m "noi dung commit"
+git push
